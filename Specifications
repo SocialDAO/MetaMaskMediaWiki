@@ -1,10 +1,15 @@
 This is where details of this extension can be specified. 
 
-This is an idea for a MediaWiki extension that enables MediaWiki installations to create new user accounts after a cryptocurrency fee is paid using MetaMask browser extension. This effectively creates the ability for MediaWiki sites to be function as paid membership websites.
+This is an idea for a MediaWiki extension that enables MediaWiki installations to create new user accounts after a cryptocurrency fee is
+paid using MetaMask browser extension. This effectively creates the ability for MediaWiki sites to be function as paid
+membership websites.
 
-MediaWiki is the software that runs Wikipedia. MetaMask is a browser extension which integrates Ethereum capabilities into the browser experience.
+MediaWiki is the software that runs Wikipedia. MetaMask is a browser extension which integrates Ethereum 
+capabilities into the browser experience.
 
-The extension should allow to set different fees for a yearly or monthly membership. Accounts will be locked if yearly or monthly dues are not paid on time. The ability to manually lock accounts should be built into the extension too.
+The extension should allow to set different fees for a yearly or monthly membership. Accounts will be 
+locked if yearly or monthly dues are not paid on time. The ability to manually lock accounts 
+should be built into the extension too.
 
 The extension can be called Extension:MetaMaskAccounts.
 
